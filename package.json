@@ -1,0 +1,26 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "https://www.hackathon.com/",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikhsanhabibi/hackathon.git"
+  },
+  "author": "ikhsanhabibi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikhsanhabibi/hackathon/issues"
+  },
+  "homepage": "https://github.com/ikhsanhabibi/hackathon#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.9",
+    "nodemon": "^1.19.4"
+  }
+}
